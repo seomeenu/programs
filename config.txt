@@ -1,0 +1,5 @@
+Device: 헤드셋 이어폰 Samsung USB C Earphones {5798bed8-7108-4dda-84d5-f55375ea1ff1}
+Include: Samsung AKG EO-IG955 Type-C ParametricEq.txt
+Device:  헤드셋 마이크 Samsung USB C Earphones {491f19e6-8b41-4c1c-ad9f-6325a25d83e8}
+Preamp: 15 dB
+Filter: ON HP Fc 20 Hz
