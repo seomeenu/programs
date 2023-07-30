@@ -17,7 +17,7 @@
 - [tetr.io](https://tetr.io/about/desktop/)
 
 # other
-- [equalizer apo](https://sourceforge.net/projects/equalizerapo/)
+- [equalizer apo](https://sourceforge.net/projects/equalizerapo/) ([config](./equaizer_apo)))
 - [kilohearts essentials](https://kilohearts.com/products/kilohearts_essentials)
 - [ott](https://xferrecords.com/freeware/)
 - [vital](https://account.vital.audio/)
