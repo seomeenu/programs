@@ -1,4 +1,4 @@
-# programs  
+  # programs  
 - [chrome](https://www.google.com/chrome/)
 - [discord](https://discord.com/)
 - [fl studio](image-line.com/fl-studio-download/)
@@ -14,7 +14,7 @@
 - [steam](https://store.steampowered.com/about/)
 - [minecraft](minecraft.net/ko-kr/download)
 - [lunar client](https://www.lunarclient.com/download)
-- [tetr.io](https://tetr.io/about/desktop/)
+- [tetr.io](https://tetr.io/about/desktop/) ([config](./tetr.io)))
 
 # other
 - [equalizer apo](https://sourceforge.net/projects/equalizerapo/) ([config](./equalizer_apo)))
