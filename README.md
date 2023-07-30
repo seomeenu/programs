@@ -1,6 +1,7 @@
   # programs  
 - [chrome](https://www.google.com/chrome/)
 - [discord](https://discord.com/)
+- [everything](voidtools.com/ko-kr/downloads/)
 - [fl studio](image-line.com/fl-studio-download/)
 - [hitfilm](https://account.fxhome.com/my-account/plans-products)
 - [figma](figma.com/downloads/)
