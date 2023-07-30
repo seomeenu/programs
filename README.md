@@ -9,6 +9,8 @@
 # coding
 - [visual studio code](https://code.visualstudio.com/download)
 - [python](https://www.python.org/downloads/)
+- [git](https://git-scm.com/download/win)
+- [github desktop](https://desktop.github.com/)
 
 # games
 - [steam](https://store.steampowered.com/about/)
@@ -23,3 +25,5 @@
 - [vital](https://account.vital.audio/)
 - [cymatics sample pack](https://cymatics.fm/pages/thank-free-samples-presets)
 - [procrastitracker](https://strlen.com/procrastitracker/#download)
+- [twinkle tray](https://twinkletray.com/)
+- [lghub](https://www.logitechg.com/en-us/innovation/g-hub.html)
