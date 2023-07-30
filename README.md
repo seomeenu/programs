@@ -1,10 +1,10 @@
   # programs  
 - [chrome](https://www.google.com/chrome/)
 - [discord](https://discord.com/)
-- [everything](voidtools.com/ko-kr/downloads/)
-- [fl studio](image-line.com/fl-studio-download/)
+- [everything](https://voidtools.com/ko-kr/downloads/)
+- [fl studio](https://image-line.com/fl-studio-download/)
 - [hitfilm](https://account.fxhome.com/my-account/plans-products)
-- [figma](figma.com/downloads/)
+- [figma](https://figma.com/downloads/)
 - [audacity](https://www.audacityteam.org/) 
   
 # coding
@@ -15,7 +15,7 @@
 
 # games
 - [steam](https://store.steampowered.com/about/)
-- [minecraft](minecraft.net/ko-kr/download)
+- [minecraft](https://minecraft.net/ko-kr/download)
 - [lunar client](https://www.lunarclient.com/download)
 - [tetr.io](https://tetr.io/about/desktop/) ([config](./tetr.io)))
 
