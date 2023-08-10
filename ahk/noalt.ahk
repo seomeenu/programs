@@ -1,5 +1,4 @@
 ﻿~LAlt::Send {Blind}{vkE8}
-
-^+!Enter::CapsLock
-
+ 
+PrintScreen::CapsLock
 CapsLock::return
