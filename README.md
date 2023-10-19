@@ -17,7 +17,7 @@
 - [steam](https://store.steampowered.com/about/)
 - [minecraft](https://minecraft.net/ko-kr/download)
 - [lunar client](https://www.lunarclient.com/download)
-- [tetr.io](https://tetr.io/about/desktop/) ([config](./tetr.io)))
+- [tetr.io](https://tetr.io/about/desktop/) 
 
 # other
 - [equalizer apo](https://sourceforge.net/projects/equalizerapo/) ([config](./equalizer_apo)))
@@ -28,3 +28,4 @@
 - [procrastitracker](https://strlen.com/procrastitracker/#download)
 - [twinkle tray](https://twinkletray.com/)
 - [lghub](https://www.logitechg.com/en-us/innovation/g-hub.html)
+- [splice](https://splice.com/download)
