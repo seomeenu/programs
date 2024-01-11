@@ -1,10 +1,4 @@
-~LAlt::Send {Blind}{vkE8}
+#Requires AutoHotkey v2.0
 
-PrintScreen::CapsLock
-CapsLock::Return
-^CapsLock::Return
-!CapsLock::Return
-+CapsLock::Return
-#CapsLock::Return
-
-!^::Return
+A_MenuMaskKey := "vkE8" 
+Alt::Return
