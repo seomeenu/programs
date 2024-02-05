@@ -1,4 +1,4 @@
-#Requires AutoHotkey v2.0
+#Requires AutoHotkey v1.1.37+
 
-A_MenuMaskKey := "vkE8" 
+#MenuMaskKey vkE8
 Alt::Return
